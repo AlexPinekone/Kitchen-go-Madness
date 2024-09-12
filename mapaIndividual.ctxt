@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=mapaIndividual
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ mapaIndividual\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=mapaIndividual()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ mapaIndividual\r\n
+comment2.params=nom\ ima\ arc
+comment2.target=mapaIndividual(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNomMapa()
+comment4.params=
+comment4.target=java.lang.String\ getRutaImagenMapa()
+comment5.params=
+comment5.target=java.lang.String\ getArchivoMapa()
+comment6.params=
+comment6.target=mapaIndividual\ getSiguienteMapa()
+comment7.params=mp
+comment7.target=void\ setSiguienteMapa(mapaIndividual)
+comment7.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+numComments=8
